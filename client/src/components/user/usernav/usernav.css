@@ -1,0 +1,20 @@
+.user-nav-container{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color:cadetblue;
+}
+.user-nav-ul{
+    list-style-type: none;
+    display: flex;
+    flex-flow: row nowrap;
+    color: white;
+    gap: 2rem;
+}
+.user-nav-li{
+    text-decoration: none;
+    padding: 1rem;
+}
+Link{
+    text-decoration: none;
+}
